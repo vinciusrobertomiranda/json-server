@@ -1,0 +1,42 @@
+[
+   {
+      "history":"Antecipação 61 pelo Totvs Antecipa",
+      "creditUnits":[
+         
+      ],
+      "operation":0,
+      "platformId":"29667385-8050-4aba-a4e5-c0b7fb7ac394",
+      "erpId":"01000177932601",
+      "date":"20210804",
+      "localAmount":4360.00,
+      "feeAmount":3.22,
+      "typeOperation":0
+   },
+   {
+      "history":"Antecipação 73 pelo Totvs Antecipa",
+      "creditUnits":[
+         
+      ],
+      "operation":0,
+      "platformId":"28aed766-0dba-426d-8891-337126216c01",
+      "erpId":"01000177932801",
+      "date":"20210804",
+      "localAmount":2180.00,
+      "feeAmount":1.61,
+      "typeOperation":0
+   },
+   {
+      "history":"Antecipação 90 pelo Totvs Antecipa",
+      "creditUnits":[
+         
+      ],
+      "operation":0,
+      "platformId":"76a3fe32-7b3b-498f-b21f-1a45bb777a80",
+      "erpId":"01000177933001",
+      "date":"20210804",
+      "localAmount":3800.00,
+      "feeAmount":4.69,
+      "typeOperation":0
+   },
+
+]
